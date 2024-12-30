@@ -9,7 +9,7 @@ InstituteReport is an AI-driven solution for analyzing and generating detailed r
 - **Interactive Dashboards**: Visualizes trends, placements, and fund allocations in a dashboard.
 
 ## Demo video
-![InstituteReport Demo](Images\video_1.gif)
+https://github.com/user-attachments/assets/5ac4cecb-949f-46b4-9693-22b6e1dd1b97
 
 ## Technologies Used
 - **Frontend**: Streamlit
